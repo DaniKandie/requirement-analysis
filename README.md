@@ -53,9 +53,9 @@ Here are the 5 main activities involved in requirement analysis:
  
   ---
 
-## 🧾 Types of Requirements
+## Types of Requirements
 
-### ✅ Functional Requirements
+### Functional Requirements
 
 These are the features that the system **must do**. They describe **what** the system will do.
 
@@ -66,7 +66,7 @@ These are the features that the system **must do**. They describe **what** the s
 - Users can book a property and pay online
 - Admin can add or remove listings
 
-### ⚙️ Non-functional Requirements
+### Non-functional Requirements
 
 These describe **how** the system should behave. They focus on performance, security, usability, etc.
 
@@ -76,4 +76,27 @@ These describe **how** the system should behave. They focus on performance, secu
 - The platform must be available 99.9% of the time
 - The system must support up to 1,000 users at once
 - The interface should be mobile responsive
+
+---
+
+## Use Case Diagrams
+
+A use case diagram shows how different users (called **actors**) interact with the system. It helps us understand the system’s functionality from the user’s point of view.
+
+###  Actors:
+- Guest
+- Registered User
+- Admin
+
+###  Use Cases:
+- Sign up / Log in
+- Search for listings
+- Book a property
+- Make a payment
+- View booking history (for users)
+- Add or remove listings (for admins)
+
+Below is a simple use case diagram for the booking system:
+
+![Use Case Diagram](alx-booking-uc.png)
 
