@@ -16,3 +16,16 @@ This step helps make sure:
 - Everyone understands what needs to be built
 - No important features are forgotten
 - The final software meets the user's goals
+
+## Why is Requirement Analysis Important?
+
+Requirement Analysis is important because:
+
+1. **It avoids confusion**
+   - When everyone agrees on what needs to be built, there’s less chance of misunderstanding.
+
+2. **It saves time and money**
+   - It is cheaper and easier to fix mistakes early (on paper) than later (in code).
+
+3. **It helps build the right product**
+   - The team builds a system that actually solves the user’s problem, not just what they think the user needs.
