@@ -29,3 +29,24 @@ Requirement Analysis is important because:
 
 3. **It helps build the right product**
    - The team builds a system that actually solves the user’s problem, not just what they think the user needs.
+
+---
+
+## 🛠️ Key Activities in Requirement Analysis
+
+Here are the 5 main activities involved in requirement analysis:
+
+- **Requirement Gathering**
+  - Collect information from users, clients, or stakeholders about what they need from the system.
+
+- **Requirement Elicitation**
+  - Ask the right questions through interviews, surveys, or workshops to get clear requirements.
+
+- **Requirement Documentation**
+  - Write down all the requirements in a clear and structured format that everyone can understand.
+
+- **Requirement Analysis and Modeling**
+  - Organize the requirements into categories and use diagrams (like use case diagrams) to visualize how the system should work.
+
+- **Requirement Validation**
+  - Review the requirements with users and team members to make sure everything is correct and complete.
