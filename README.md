@@ -99,3 +99,28 @@ A use case diagram shows how different users (called **actors**) interact with t
 Below is a simple use case diagram for the booking system:
 
 ![alx-booking-uc](https://github.com/user-attachments/assets/727b80b4-853d-4476-a48a-f3eb34fff9a0)
+
+---
+
+## Acceptance Criteria
+
+**Acceptance Criteria** are the conditions that a feature must meet to be considered “done.”  
+They help the developer and the client agree on what success looks like for each feature.
+
+### Importance:
+- Avoids confusion or assumptions
+- Helps with testing
+- Ensures the feature solves the user’s problem
+
+### Example: Checkout Feature
+
+**User Story:**  
+_As a registered user, I want to book a property and pay for it securely._
+
+**Acceptance Criteria:**
+- The user must be logged in to book
+- The property must be available on the selected date
+- The checkout page must show total cost
+- The user must enter valid payment details
+- After successful payment, a confirmation message and email must be sent
+
