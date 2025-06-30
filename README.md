@@ -98,5 +98,4 @@ A use case diagram shows how different users (called **actors**) interact with t
 
 Below is a simple use case diagram for the booking system:
 
-![Use Case Diagram](alx-booking-uc.png)
-
+![alx-booking-uc](https://github.com/user-attachments/assets/727b80b4-853d-4476-a48a-f3eb34fff9a0)
