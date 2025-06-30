@@ -50,3 +50,30 @@ Here are the 5 main activities involved in requirement analysis:
 
 - **Requirement Validation**
   - Review the requirements with users and team members to make sure everything is correct and complete.
+ 
+  ---
+
+## 🧾 Types of Requirements
+
+### ✅ Functional Requirements
+
+These are the features that the system **must do**. They describe **what** the system will do.
+
+**Examples for Booking Management System:**
+- Users can create an account
+- Users can log in and log out
+- Users can search for available properties
+- Users can book a property and pay online
+- Admin can add or remove listings
+
+### ⚙️ Non-functional Requirements
+
+These describe **how** the system should behave. They focus on performance, security, usability, etc.
+
+**Examples for Booking Management System:**
+- The website must load within 2 seconds
+- User passwords must be encrypted
+- The platform must be available 99.9% of the time
+- The system must support up to 1,000 users at once
+- The interface should be mobile responsive
+
